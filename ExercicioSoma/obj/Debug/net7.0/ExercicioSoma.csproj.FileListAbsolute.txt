@@ -1,0 +1,15 @@
+D:\WorkC#\Projetos\ExercicioSoma\ExercicioSoma\bin\Debug\net7.0\ExercicioSoma.exe
+D:\WorkC#\Projetos\ExercicioSoma\ExercicioSoma\bin\Debug\net7.0\ExercicioSoma.deps.json
+D:\WorkC#\Projetos\ExercicioSoma\ExercicioSoma\bin\Debug\net7.0\ExercicioSoma.runtimeconfig.json
+D:\WorkC#\Projetos\ExercicioSoma\ExercicioSoma\bin\Debug\net7.0\ExercicioSoma.dll
+D:\WorkC#\Projetos\ExercicioSoma\ExercicioSoma\bin\Debug\net7.0\ExercicioSoma.pdb
+D:\WorkC#\Projetos\ExercicioSoma\ExercicioSoma\obj\Debug\net7.0\ExercicioSoma.csproj.AssemblyReference.cache
+D:\WorkC#\Projetos\ExercicioSoma\ExercicioSoma\obj\Debug\net7.0\ExercicioSoma.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkC#\Projetos\ExercicioSoma\ExercicioSoma\obj\Debug\net7.0\ExercicioSoma.AssemblyInfoInputs.cache
+D:\WorkC#\Projetos\ExercicioSoma\ExercicioSoma\obj\Debug\net7.0\ExercicioSoma.AssemblyInfo.cs
+D:\WorkC#\Projetos\ExercicioSoma\ExercicioSoma\obj\Debug\net7.0\ExercicioSoma.csproj.CoreCompileInputs.cache
+D:\WorkC#\Projetos\ExercicioSoma\ExercicioSoma\obj\Debug\net7.0\ExercicioSoma.dll
+D:\WorkC#\Projetos\ExercicioSoma\ExercicioSoma\obj\Debug\net7.0\refint\ExercicioSoma.dll
+D:\WorkC#\Projetos\ExercicioSoma\ExercicioSoma\obj\Debug\net7.0\ExercicioSoma.pdb
+D:\WorkC#\Projetos\ExercicioSoma\ExercicioSoma\obj\Debug\net7.0\ExercicioSoma.genruntimeconfig.cache
+D:\WorkC#\Projetos\ExercicioSoma\ExercicioSoma\obj\Debug\net7.0\ref\ExercicioSoma.dll
